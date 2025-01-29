@@ -1,0 +1,2 @@
+option('cli', type: 'feature', value: 'disabled', description: 'Enable OpenScuola CLI build')
+option('static_cli', type: 'feature', value: 'enabled', description: 'Build OpenScuola CLI with static OpenScuola Bridge and D default library. On Windows OpenScuola CLI it will always be compiled as static')

@@ -1,0 +1,5 @@
+[wrap-git]
+directory=cachetools
+url=https://github.com/ikod/cachetools
+patch_directory = cachetools
+revision=v0.3.1

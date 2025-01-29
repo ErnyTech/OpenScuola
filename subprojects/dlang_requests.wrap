@@ -1,0 +1,5 @@
+[wrap-git]
+directory=dlang_requests
+url=https://github.com/ikod/dlang-requests
+patch_directory = dlang_requests
+revision=332b2268637485e2b79044a9984c3963ad2ed2e8

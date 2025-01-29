@@ -1,0 +1,5 @@
+[wrap-git]
+directory=dxml
+patch_directory = dxml
+url=https://github.com/jmdavis/dxml
+revision=v0.4.3
